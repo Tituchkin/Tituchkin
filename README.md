@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tituchkin
 - 👀 I’m interested in  coding
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning JavaScript, Python
 - 📫 How to reach me ... [facebook](https://www.facebook.com/profile.php?id=100085421987379)
 
 <!---
